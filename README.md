@@ -4,6 +4,12 @@ Repository for playing around with modern methods in Deep Learning
 ## GAN - Generative Adversarial Network
 Contains one notebook, keras_GAN, used for learning the basics of GANs using google colab
 
+## null_class
+Testing whether the addition of a 'null' class of randomly generated data when training can serve to regularise a network when training
+Only tested on MNIST so far and had some issues with EarlyStopping but the null class did appear to add a small benefit
+
+TODO - Test on other datasets CIFAR10, CIFAR100, EMNIST for example
+
 ## fuzzyClasses
 Notebook fuzzy_mnist testing fuzzy class labels for the mnist dataset
 
