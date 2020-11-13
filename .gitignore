@@ -1,6 +1,15 @@
 
 /dl/
+
+/GAN/.ipynb_checkpoints/
+
 /handwriting/emnist/
 /handwriting/.ipynb_checkpoints/
+
+/fuzzyClasses/.ipynb_checkpoints/
+/fuzzyClasses/logs/
+/fuzzyClasses/push.ipynb
+
+/null_class/.ipynb_checkpoints/
 
 .idea/
